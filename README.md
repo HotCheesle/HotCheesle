@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![HotCheesle's GitHub stats](https://github-readme-stats.vercel.app/api?username=HotCheesle&theme=onedark)](https://github.com/HotCheesle/github-readme-stats)
+[![HotCheesle's GitHub stats](https://github-readme-stats.vercel.app/api?username=HotCheesle&theme=onedark&show_icons=True)](https://github.com/HotCheesle/github-readme-stats)
 
 Here are some ideas to get you started:
 
