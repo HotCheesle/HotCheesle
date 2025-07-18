@@ -2,8 +2,8 @@
 
 [![HotCheesle's GitHub stats](https://github-readme-stats.vercel.app/api?username=HotCheesle&theme=onedark&show_icons=True)](https://github.com/HotCheesle/github-readme-stats)
 
-<a href="https://solved.ac/ssho1204@naver.com">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssho1204@naver.com" />
+<a href="https://solved.ac/ssho1204">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssho1204" />
   </a>
 
 Here are some ideas to get you started:
